@@ -1,5 +1,6 @@
 # Crazy-Snake
 This is the classical snake game with a twist.
+It is written in Java and can be embedded with HTML.
 
 How to play:
 Eat the green token but advoid the pink ones.
